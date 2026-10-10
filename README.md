@@ -21,3 +21,22 @@ I'm here to grow, experiment, embrace challenges, and make every line of code pa
 ---
 
 ୨୧ This is just the beginning of my story.
+
+---
+
+### ✦ Tech I'm Exploring
+
+![C](https://img.shields.io/badge/C-Learning-blue?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-My_Journey-black?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌱 My Current Focus
+
+- Building strong programming fundamentals
+- Practicing problem-solving with C
+- Exploring Python step by step
+- Learning to build my first projects
+
+---
+
+*Little steps. Big dreams. Endless possibilities.* ✨
